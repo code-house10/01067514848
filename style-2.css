@@ -1,0 +1,16 @@
+/*
+Theme Name: SmartCreation
+Theme URI: https://www.SmartCreation.net/
+Description: SmartCreation Main WordPress Template.
+Author: SC
+Author URI: https://www.SmartCreation.net/
+Template: oceanwp
+Version: 1.0
+*/
+
+/* ضبط صفحة الاقسام للمتاجر على نسخة الجوال */
+html,
+body{
+width:100% !important;
+overflow-x:hidden !important;
+}

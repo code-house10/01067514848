@@ -1,0 +1,11 @@
+* {
+    letter-spacing: 0 !important;
+}
+
+/* تمدد حقل الخصم في صفحة المنتج */
+@media (min-width: 769px){
+.woocommerce div.product.owp-thumbs-layout-vertical.has-no-thumbnails span.onsale {
+    right: 20px;
+left: auto;
+}}
+
